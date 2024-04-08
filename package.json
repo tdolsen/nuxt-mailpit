@@ -1,8 +1,12 @@
 {
   "name": "nuxt-mailpit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Nuxt 3 devtools integration for Mailpit.",
-  "keywords": ["nuxt", "mailpit", "devtools"],
+  "keywords": [
+    "nuxt",
+    "mailpit",
+    "devtools"
+  ],
   "repository": "tdolsen/nuxt-mailpit",
   "license": "MIT",
   "type": "module",
