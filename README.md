@@ -20,14 +20,7 @@ Integrate the [Mailpit][mailpit-href] web UI effortlessly in the [Nuxt][nuxt-hre
 1. Add `nuxt-mailpit` dependency to your project
 
 ```bash
-# Using pnpm
-pnpm add -D nuxt-mailpit
-
-# Using yarn
-yarn add --dev nuxt-mailpit
-
-# Using npm
-npm install --save-dev nuxt-mailpit
+npx nuxi@latest module add mailpit
 ```
 
 2. Add `nuxt-mailpit` to the `modules` section of `nuxt.config.ts`
